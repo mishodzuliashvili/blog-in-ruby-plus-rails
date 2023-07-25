@@ -6,6 +6,7 @@ Things you need to install:
   * Ruby + Rails
   * SQLite3
 
-The project is still a work in progress.
 
-https://github.com/mishodzuliashvili/blog-in-ruby-plus-rails/assets/87991798/5d0e5639-d39c-4395-a52a-bfc542243171
+
+https://github.com/mishodzuliashvili/blog-in-ruby-plus-rails/assets/87991798/baa62040-fca9-426e-a3e1-fc44d0cef895
+
