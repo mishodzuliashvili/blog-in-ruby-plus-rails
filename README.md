@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is written in Ruby on Rails. It follows the Convention Over Configuration and DRY principle.
 
-Things you may want to cover:
+Things you need to install:
+  * Ruby + Rails
+  * SQLite3
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The project is still a work in progress.
